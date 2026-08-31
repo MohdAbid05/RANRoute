@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+supabase
+python-jose[cryptography]
+httpx
+pandas
+openpyxl
+ortools
+ibm-watsonx-ai
+pydantic

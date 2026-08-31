@@ -1,0 +1,31 @@
+﻿# Secrets
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite-temp/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Chat / personal files
+bob-task-*.md
+
+# Local workspace files (not part of the project)
+_workspace/
