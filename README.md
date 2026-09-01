@@ -129,6 +129,5 @@ test-data/
 ## Docs
 
 - [Architecture](docs/architecture.md)
-- [Demo Script](docs/demo-script.md)
 - [IBM Bob Usage](docs/bob-usage.md)
 - [Build Plan](PLAN.md)
