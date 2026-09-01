@@ -1,4 +1,4 @@
-# RouteOne — Build Plan
+# RANRoute — Build Plan
 
 **Challenge:** IBM AI Builders Challenge — Wildcard Track
 **Stack:** React (Vite) frontend · Python + FastAPI backend · Supabase (Postgres + Auth) · OR-Tools solver · watsonx.ai (IBM Granite) for both AI agents · Google Maps JS API (in-app preview) · Nominatim (geocoding)
