@@ -1,4 +1,4 @@
-# RANRoute Everywhere
+# RANRoute
 
 > AI-powered delivery route optimization for solo and small-fleet businesses — IBM AI Builders Challenge submission
 
