@@ -14,7 +14,7 @@ Small businesses running delivery or service routes — couriers, home-service t
 
 ## Solution
 
-RanRoute lets dispatchers build optimized daily routes through plain-language instructions — no GPS fleet or historical data required. A dispatcher types what they need ("get to C1 first, C6 before 3 pm") and the system translates that into a concrete, executable plan backed by real map data and a proven optimization engine.
+RanRoute lets dispatchers build optimized daily routes through plain-language instructions — no GPS fleet or historical data required. A dispatcher types what they need ("get to Customer 1 first, Customer 6 before 3 pm") and the system translates that into a concrete, executable plan backed by real map data and a proven optimization engine.
 
 Three customer import paths — manual entry, Excel/CSV upload, and AI-assisted text extraction — all converge on the same verified customer list. Every address is geocoded independently of the AI, ensuring the AI's confidence in parsing text never gets confused with confidence in address accuracy.
 
